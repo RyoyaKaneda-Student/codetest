@@ -1,5 +1,9 @@
 package com.codetest;
 
+/**
+ * @Author 金田燎弥
+ */
+
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

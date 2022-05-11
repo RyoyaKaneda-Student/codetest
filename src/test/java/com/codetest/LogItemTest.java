@@ -5,6 +5,10 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * @Author 金田燎弥
+ */
+
 class LogItemTest {
 
     @Test

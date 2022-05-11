@@ -1,5 +1,9 @@
 package com.codetest;
 
+/**
+ * @Author 金田燎弥
+ */
+
 import java.net.Inet4Address;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
